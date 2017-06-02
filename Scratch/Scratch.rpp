@@ -1,0 +1,870 @@
+<REAPER_PROJECT 0.1 "5.40/x64" 1496364048
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 206
+  ZOOM 23.2568039361378 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN Scratch
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 61 109
+  SELECTION2 61 109
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {D174CBBB-5DFC-481B-99FC-585BA73CA0BF}
+    NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.06229132251349 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D174CBBB-5DFC-481B-99FC-585BA73CA0BF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A7EEAB91-E1D3-4115-8847-822E0EE834D7}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31F8BC16-77E9-490B-903D-0683DEA9D90F}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {33A3017C-D2AA-4979-8187-E14AEB67DF53}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5C1B6DE-65DC-4F63-A93D-7FC3B864D6BF}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {27D5F895-F95F-4296-900B-4A82FD1F9FC0}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98E4D645-8119-4764-B0C9-2DC6F5BACDA9}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 35
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {196F2BD8-8A00-4779-897E-03F93FD6C4F2}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF3F0913-504F-4105-852D-A447501D2E95}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E8840F7E-7E2F-49EE-BF77-1B572CAC63D9}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECAF4D71-3878-498D-AFD8-B0A3560A23BD}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 51
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1E58BFF0-4D2F-48D6-8478-2B1B9C6E2650}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8861C404-4D5B-472E-84BB-763CDAC9672C}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 59
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AC4695ED-4D3E-4186-979B-447F27201876}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52A07F55-E806-43C3-A00C-6D60CF5CAD7B}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 67
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8F93EF77-608A-424F-A691-4BB5FE0C73B2}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86618A69-51A2-4F54-8A7C-6D1549814A47}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 119
+      SNAPOFFS 0
+      LENGTH 2.6433560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3E7F4402-C414-4298-8771-B7CED2002709}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33A2DEAC-823B-45A1-A131-1AE22607BF7E}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 127
+      SNAPOFFS 0
+      LENGTH 2.64335600907032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA915F44-D211-49AF-8BD7-AD80C5E0C3AF}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10334C03-51E1-4B87-AB69-5A53855E1F21}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 135
+      SNAPOFFS 0
+      LENGTH 2.64335600907032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A77910EC-679D-4431-B251-254DD032FD8F}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34900D74-A116-49E5-BAD0-D7439345F14B}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 143
+      SNAPOFFS 0
+      LENGTH 2.64335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20E71A90-D7E1-41D8-847E-CEEF0BE4716C}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {550D4543-A3E5-4495-A3C5-D2D31B63C5A9}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 151
+      SNAPOFFS 0
+      LENGTH 2.64335600907032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D56CD141-E017-4FFE-B7D6-FE261E4FF005}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {989DEF57-2A3D-4EB6-99E0-B3FFD1AEEED8}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 159
+      SNAPOFFS 0
+      LENGTH 2.64335600907032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D09AC51A-0701-4153-94EF-3078DE2F4946}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC86CED3-DB81-4112-8F27-4A9822221989}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 167
+      SNAPOFFS 0
+      LENGTH 2.64335600907032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {085EA6DA-1B49-42D2-8330-596FE141C1AD}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9588B804-4365-49ED-A160-6DDA1BEBA627}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 175
+      SNAPOFFS 0
+      LENGTH 2.64335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D1FC3AD1-58D0-4070-9725-AB647865F1EF}
+      IID 8
+      NAME looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB034173-50CC-4B70-BBF7-0E059C213D6F}
+      <SOURCE WAVE
+        FILE "looperman-l-0000003-0000070-serialchiller-chilla-guitar-chops-2-90bpm-du.wav"
+      >
+    >
+  >
+  <TRACK {39C0920E-4D00-464E-A72A-89C6D23D737D}
+    NAME looperman-l-0039029-0001454-rei4real-rei-sit-down-01-e-90bpm-du
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.16329416261566 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39C0920E-4D00-464E-A72A-89C6D23D737D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 63.99278911564625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.5 0 1 0 0
+      FADEOUT 1 1.559447 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E9FFA7F0-CD27-40D3-B805-8C44E139300F}
+      IID 9
+      NAME looperman-l-0039029-0001454-rei4real-rei-sit-down-01-e-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84736C88-F7FA-49CE-B017-4CE979E8EB32}
+      <SOURCE WAVE
+        FILE "looperman-l-0039029-0001454-rei4real-rei-sit-down-01-e-90bpm-du.wav"
+      >
+    >
+    <ITEM
+      POSITION 127
+      SNAPOFFS 0
+      LENGTH 46
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.5 0 1 0 0
+      FADEOUT 1 1.093318 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {42CD3D41-C60A-4D35-B6EF-10773BBFE0C3}
+      IID 9
+      NAME looperman-l-0039029-0001454-rei4real-rei-sit-down-01-e-90bpm-du.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.66546485260771
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AACE16A-D715-4FAE-9028-830BF4D13287}
+      <SOURCE WAVE
+        FILE "looperman-l-0039029-0001454-rei4real-rei-sit-down-01-e-90bpm-du.wav"
+      >
+    >
+  >
+  <TRACK {DE1B49CF-3FC7-4513-9B02-90CD46B65039}
+    NAME looperman-l-0079608-0002559-splish-congas-2-90bpm
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE1B49CF-3FC7-4513-9B02-90CD46B65039}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 242.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.55296 0 1 0 0
+      FADEOUT 1 6.354053 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {812141C6-2936-4065-A9CB-25C9DCD19CFD}
+      IID 19
+      NAME looperman-l-0079608-0002559-splish-congas-2-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {526D64D9-8826-412A-85EE-7942798EF532}
+      <SOURCE WAVE
+        FILE "C:\Loops\Rhythm\looperman-l-0079608-0002559-splish-congas-2-90bpm.wav"
+      >
+    >
+  >
+  <TRACK {FFA77AB0-CE75-4FEB-9FF1-C501D0DDD089}
+    NAME looperman-l-0480098-0051507-jamievega-bouncy-offbeat-synth-with-delay
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.21871375624299 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FFA77AB0-CE75-4FEB-9FF1-C501D0DDD089}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 23.5
+      SNAPOFFS 0
+      LENGTH 219
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.039487 0 1 0 0
+      FADEOUT 1 6.483047 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D408C55-1430-4528-A8B7-C2BCA909A95C}
+      IID 25
+      NAME looperman-l-0480098-0051507-jamievega-bouncy-offbeat-synth-with-delay.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24E46B7E-264E-4163-B3E8-CA4E273EBBD5}
+      <SOURCE WAVE
+        FILE "C:\Loops\Harmony\looperman-l-0480098-0051507-jamievega-bouncy-offbeat-synth-with-delay.wav"
+      >
+    >
+  >
+  <TRACK {A2E033ED-06BE-42D3-9285-4F802C2634A7}
+    NAME looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.11521806013581 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A2E033ED-06BE-42D3-9285-4F802C2634A7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 29.5
+      SNAPOFFS 0
+      LENGTH 31.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.76201 0 1 0 0
+      FADEOUT 1 6.526045 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7BF716C7-F5BC-4161-B2BC-E6F5E89C2486}
+      IID 32
+      NAME looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.67755102040816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F76723DB-6DC8-4E2C-8C15-A1757C6FB68D}
+      <SOURCE WAVE
+        FILE "C:\Loops\Rhythm\looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav"
+      >
+    >
+    <ITEM
+      POSITION 107
+      SNAPOFFS 0
+      LENGTH 63.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.76201 0 1 0 0
+      FADEOUT 1 6.526045 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {499AA2B0-25C7-4FC0-96AD-B9E98F95530B}
+      IID 32
+      NAME looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.67755102040816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C88C7775-7516-4267-94D6-BD2794E49E07}
+      <SOURCE WAVE
+        FILE "C:\Loops\Rhythm\looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav"
+      >
+    >
+    <ITEM
+      POSITION 216
+      SNAPOFFS 0
+      LENGTH 26.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.76201 0 1 0 0
+      FADEOUT 1 6.526045 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {26BB9931-5BBD-4C9D-885B-839091FA807A}
+      IID 32
+      NAME looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.67755102040816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35FF3AED-DEB4-494A-8FD4-A8E4A80FCDAD}
+      <SOURCE WAVE
+        FILE "C:\Loops\Rhythm\looperman-l-0000003-0000072-serialchiller-chilla-train-hats-90bpm.wav"
+      >
+    >
+  >
+  <TRACK {A5E7EBE6-368F-469C-A04C-A6E0691FAFA6}
+    NAME looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.14437371124641 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5E7EBE6-368F-469C-A04C-A6E0691FAFA6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10.66666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.282009 0 1 0 0
+      FADEOUT 1 0.4761 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46514555-9C04-4D6D-83CE-516EC2D45CC7}
+      IID 43
+      NAME looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9E414BA-F979-4C93-86D5-1215DF03357E}
+      <SOURCE WAVE
+        FILE "C:\Loops\Harmony\looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.5
+      SNAPOFFS 0
+      LENGTH 5.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.282009 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F5E9DAC-F2AC-4EB3-A9EE-56C962A43DDD}
+      IID 43
+      NAME looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4C9C3A7-15AD-4427-9E78-109CE2EB405C}
+      <SOURCE WAVE
+        FILE "C:\Loops\Harmony\looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.5
+      SNAPOFFS 0
+      LENGTH 5.33333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.282009 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DE5BC5F0-398E-4329-93E9-7BE9BE5BDD90}
+      IID 43
+      NAME looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0D49706-BDFE-4F7C-A00B-7A7FE141C325}
+      <SOURCE WAVE
+        FILE "C:\Loops\Harmony\looperman-l-0318099-0023212-bete-old-gangsta-synth-90bpm.wav"
+      >
+    >
+  >
+  <TRACK {93C96635-8A4D-4BF5-BE53-8C29008438F7}
+    NAME looperman-l-0448131-0065520-megapaul-dongeled-90bpm-b
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.11143633310993 -0.032 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {93C96635-8A4D-4BF5-BE53-8C29008438F7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 67
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.582081 0 1 0 0
+      FADEOUT 1 2.557446 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62D90B12-DCC7-48AD-8AF9-56B7350BC8E3}
+      IID 45
+      NAME looperman-l-0531700-0052338-loopfreak-kings-of-the-dirty-south-hook-lead-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5234DCB5-9481-493E-94EC-A748F30C8983}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0531700-0052338-loopfreak-kings-of-the-dirty-south-hook-lead-90bpm.wav"
+      >
+    >
+    <ITEM
+      POSITION 176
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.652459 0 1 0 0
+      FADEOUT 1 2.729079 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1911D279-767D-4569-A3C0-42CD051BC71D}
+      IID 45
+      NAME looperman-l-0531700-0052338-loopfreak-kings-of-the-dirty-south-hook-lead-90bpm.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7A82F09-B1C4-42EB-A62F-9F2256995F41}
+      <SOURCE WAVE
+        FILE "C:\Loops\Melody\looperman-l-0531700-0052338-loopfreak-kings-of-the-dirty-south-hook-lead-90bpm.wav"
+      >
+    >
+  >
+>
